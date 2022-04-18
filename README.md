@@ -1,6 +1,6 @@
 # BACK-PROPAGATION---SINGLE-NEURON-
 ## AIM:
-To write a python program to perform Back Propagation with Single Neuron.
+To write a python program to perform Back Propagation in Single Neuron.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -60,4 +60,4 @@ print(w)
 
 
 ## Result:
-Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
+Thus the Back Propagation in Single Neuron was successfully implemented using python programming.
