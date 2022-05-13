@@ -61,6 +61,10 @@ print(a)
 print(" ")
 print(w)
 ```
+</br>
+</br>
+</br>
+</br>
 
 ## Output:
 ![output](./static/img/nn4.png))
